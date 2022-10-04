@@ -7,16 +7,18 @@
 
 В этом репозитории собраны выполненные мной проекты, демонстрирующие мои компетенции в сфере дата-аналитики. Пока это, преимущественно, работы, самостоятельно выполненные мной в процессе обучения на курсе Яндекс.Практикума "Аналитика данных". Однако я планирую активно пополнять портфолио персональными проектами.
 
-*Общее количество проектов в репозитории:* **13**
+*Общее количество проектов в репозитории:* **15**
 
 ## Структура репозитория
 
 ---
 
-## Проекты Power BI
+### [Проекты Power BI](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/Power%20BI%20Projects)
 ---
 
-1. [Обзор рынка игр для PS4]() - проект, демонстрирующий навыки предобработки данных и построения дашбордов в Power BI.
+#### [Обзор рынка игр для PS4](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/Power%20BI%20Projects/PS4%20games%20market%20analysis) 
+
+Проект, демонстрирующий навыки предобработки данных и построения дашбордов в Power BI.
 
 **Стэк:** Power BI
 
@@ -27,7 +29,9 @@
 
 ---
 
-4. [Исследование скорости интернета в Индии]() - проект, демонстрирующий навыки предобработки данных и построения дашбордов в Power BI.
+#### [Исследование скорости интернета в Индии](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/Power%20BI%20Projects/Internet%20speed%20research) 
+
+Проект, демонстрирующий навыки предобработки данных и построения дашбордов в Power BI.
 
 **Стэк:** Power BI
 
@@ -39,10 +43,12 @@
 ---
 
 
-## Проекты Data Analysis
+### Проекты Data Analysis
 ---
 
-1. [Исследование данных музыкального сервиса - сравнение музыкальных предпочтений пользователей двух городов](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/01%20-%20Music%20service%20data%20exploration) - проект начального уровня, демонстрирующий базовые навыки владения Python, Pandas и предобработки данных. 
+#### [Исследование данных музыкального сервиса - сравнение музыкальных предпочтений пользователей двух городов](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/01%20-%20Music%20service%20data%20exploration) 
+
+Проект начального уровня, демонстрирующий базовые навыки владения Python, Pandas и предобработки данных. 
 
 **Стэк:** Python, Pandas
 
@@ -53,7 +59,9 @@
 
 ---
 
-2. [Исследование надежности заемщиков](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/02%20-%20Borrower%20Reliability%20Study) - проект начального уровня, демонстрирующий базовые навыки владения Python, Pandas, предобработки, категоризации, декомпозиции данных.
+#### [Исследование надежности заемщиков](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/02%20-%20Borrower%20Reliability%20Study) 
+
+Проект начального уровня, демонстрирующий базовые навыки владения Python, Pandas, предобработки, категоризации, декомпозиции данных.
 
 **Стэк:** Python, Pandas
 
@@ -64,7 +72,9 @@
 
 ---
 
-3. [Анализ рынка недвижимости Санкт-Петербурга](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/03%20-%20Real%20estate%20market%20analysis) - проект, демонстрирующий основные навыки исследовательского анализа данных (EDA) и их видуализации.
+#### [Анализ рынка недвижимости Санкт-Петербурга](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/03%20-%20Real%20estate%20market%20analysis) 
+
+Проект, демонстрирующий основные навыки исследовательского анализа данных (EDA) и их видуализации.
 
 **Стэк:** Python, Pandas, Matplotlib
 
@@ -75,7 +85,9 @@
 
 ---
 
-4. [Определение перспективного тарифа для телеком-компании](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/04%20-%20Finding%20a%20promising%20tariff%20for%20a%20telecom%20company) - проект, демонстрирующий навыки предобработки данных, описательной статистики, проверки статистических гипотез.
+#### [Определение перспективного тарифа для телеком-компании](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/04%20-%20Finding%20a%20promising%20tariff%20for%20a%20telecom%20company) 
+
+Проект, демонстрирующий навыки предобработки данных, описательной статистики, проверки статистических гипотез.
 
 **Стэк:** Python, Pandas, Matplotlib, NumPy, SciPy
 
@@ -86,7 +98,9 @@
 
 ---
 
-5. [Исследование закономерностей, определяющих успешность игр](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/05%20-%20Studying%20the%20patterns%20that%20determine%20the%20success%20of%20games) - проект, демонстрирующий навыки предобработки данных, EDA, описательной статистики, проверки статистических гипотез.
+#### [Исследование закономерностей, определяющих успешность игр](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/05%20-%20Studying%20the%20patterns%20that%20determine%20the%20success%20of%20games) 
+
+Проект, демонстрирующий навыки предобработки данных, EDA, описательной статистики, проверки статистических гипотез.
 
 **Стэк:** Python, Pandas, Matplotlib, Seaborn, NumPy, SciPy
 
@@ -97,7 +111,9 @@
 
 ---
 
-6. [Исследование данных об инвестициях венчурных фондов в компании-стартапы](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/06%20-%20Startup%20investments%20analysis) - проект, демонстрирующий ETL-навыки на основе запросов SQL (диалект PostgreSQL).
+#### [Исследование данных об инвестициях венчурных фондов в компании-стартапы](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/06%20-%20Startup%20investments%20analysis) 
+
+Проект, демонстрирующий ETL-навыки на основе запросов SQL (диалект PostgreSQL).
 
 **Стэк:** SQL, PostgreSQL
 
@@ -108,7 +124,9 @@
 
 ---
 
-7. [Анализ причин убытков компании-разработчика развлекательного приложения](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/07%20-%20Loss%20analysis%20for%20an%20entertainment%20application%20developer) - проект, демонстрирующий навыки предобработки данных, EDA, когортного анализа, владения продуктовыми метриками.
+#### [Анализ причин убытков компании-разработчика развлекательного приложения](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/07%20-%20Loss%20analysis%20for%20an%20entertainment%20application%20developer) 
+
+Проект, демонстрирующий навыки предобработки данных, EDA, когортного анализа, владения продуктовыми метриками.
 
 **Стэк:** Python, Pandas, Matplotlib
 
@@ -119,7 +137,9 @@
 
 ---
 
-8. [Приоритизация гипотез по увеличению выручки интернет-магазина и анализ результатов проведённого A/B-теста](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/08%20-%20AB-test%20analysis) - проект, демонстрирующий навыки владения фреймворками для приоритизации гипотез, анализа результатов А/В-теста, проверки статистических гипотез.
+#### [Приоритизация гипотез по увеличению выручки интернет-магазина и анализ результатов проведённого A/B-теста](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/08%20-%20AB-test%20analysis) 
+
+Проект, демонстрирующий навыки владения фреймворками для приоритизации гипотез, анализа результатов А/В-теста, проверки статистических гипотез.
 
 **Стэк:** Python, Pandas, Matplotlib, SciPy
 
@@ -130,7 +150,9 @@
 
 ---
 
-9. [Исследование рынка заведений общественного питания Москвы](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/09%20-%20Moscow%20food%20service%20market%20research) - проект, демонстрирующий навыки предварительной обработки данных, декомпозиции, визуализации, загрузки данных из облачных ресурсов.
+#### [Исследование рынка заведений общественного питания Москвы](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/09%20-%20Moscow%20food%20service%20market%20research) 
+
+Проект, демонстрирующий навыки предварительной обработки данных, декомпозиции, визуализации, загрузки данных из облачных ресурсов.
 
 **Стэк:** Python, Pandas, Seaborn, Plotly
 
@@ -141,7 +163,9 @@
 
 ---
 
-10. [Исследование поведения пользователей мобильного приложения по продаже продуктов питания](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/10%20-%20Application%20users'%20behavior%20study) - проект, демонстрирующий навыки событийной аналитики, визуализации данных, владения продуктовыми метриками, анализа результатов А/В-теста, проверки статистических гипотез.
+#### [Исследование поведения пользователей мобильного приложения по продаже продуктов питания](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/10%20-%20Application%20users'%20behavior%20study) 
+
+Проект, демонстрирующий навыки событийной аналитики, визуализации данных, владения продуктовыми метриками, анализа результатов А/В-теста, проверки статистических гипотез.
 
 **Стэк:** Python, Pandas, Plotly, SciPy
 
@@ -152,7 +176,9 @@
 
 ---
 
-11. [Анализ пользовательского взаимодействия с сервисом новостей](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/11%20-%20News%20website%20user%20interaction%20analysis) - проект, демонстрирующий навыки подготовки различных видов визуализаций в Tableau, макетирования дашбордов.
+#### [Анализ пользовательского взаимодействия с сервисом новостей](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/11%20-%20News%20website%20user%20interaction%20analysis) 
+
+Проект, демонстрирующий навыки подготовки различных видов визуализаций в Tableau, макетирования дашбордов.
 
 **Стэк:** Python, Pandas, Tableau
 
@@ -163,7 +189,9 @@
 
 ---
 
-12. [Прогнозирование оттока клиентов сети фитнес-центров](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/12%20-%20Fitness%20center%20churn%20forecasting) - проект, демонстрирующий базовые навыки классификации и кластеризации в машинном обучении.
+#### [Прогнозирование оттока клиентов сети фитнес-центров](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/12%20-%20Fitness%20center%20churn%20forecasting) 
+
+Проект, демонстрирующий базовые навыки классификации и кластеризации в машинном обучении.
 
 **Стэк:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
 
@@ -174,7 +202,9 @@
 
 ---
 
-13. [Аналитический буткемп](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/13%20-%20Analytical%20bootcamp) - комплексный проект, демонстрирующий широкий спектр навыков - EDA, визуализации, когортного анализа, событийного анализа, владения пользовательскими метриками, анализа результатов А/В-теста, кластеризации, проверки статистических гипотез, подготовки презентаций и дашбордов (Tableau), ETL-навыки на основе запросов SQL (диалект PostgreSQL).
+#### [Аналитический буткемп](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/13%20-%20Analytical%20bootcamp) 
+
+Комплексный проект, демонстрирующий широкий спектр навыков - EDA, визуализации, когортного анализа, событийного анализа, владения пользовательскими метриками, анализа результатов А/В-теста, кластеризации, проверки статистических гипотез, подготовки презентаций и дашбордов (Tableau), ETL-навыки на основе запросов SQL (диалект PostgreSQL).
 
 **Стэк:** Python, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, SciPy, Tableau, SQL, PostgreSQL
 
